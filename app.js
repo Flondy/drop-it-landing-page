@@ -4,7 +4,7 @@
 const translations = {
   de: {
     skip:'Zum Inhalt springen','nav.features':'Features','nav.screenshots':'Screenshots','nav.how':"So funktioniert’s",'nav.download':'Jetzt spielen ↗',
-    'hero.eyebrow':'JETZT AUF ANDROID','hero.title':'STAPEL. TRIFF. WIEDERHOLE.',
+    'hero.eyebrow':'JETZT FÜR ANDROID & IPHONE','hero.iosSmall':'LADEN IM','hero.title':'STAPEL. TRIFF. WIEDERHOLE.',
     'hero.description':'Ein Tap entscheidet alles. Setze jeden Block im perfekten Moment ab, baue deinen Neon-Turm und knacke deinen eigenen Highscore.',
     'hero.storeSmall':'JETZT DOWNLOADEN','hero.gallery':'Screenshots ansehen','hero.benefit1':'One-Tap-Gameplay','hero.benefit2':'Neon-Look','hero.benefit3':'Highscore-Challenge',
     'hero.float1':'PERFECT DROP!','hero.float2':'WIE HOCH KOMMST DU?',
@@ -20,14 +20,14 @@ const translations = {
     'how.oneTitle':'TIMING FINDEN','how.oneBody':'Beobachte, wie sich der neue Block über dem Turm bewegt.',
     'how.twoTitle':'TIPPEN & STAPELN','how.twoBody':'Tippe im richtigen Moment. Was übersteht, wird abgeschnitten.',
     'how.threeTitle':'REKORD BRECHEN','how.threeBody':'Halte deinen Turm am Leben und erreiche neue Höhen.','how.sticker':'REPEAT TO BEAT',
-    'cta.kicker':'BEREIT FÜR DIE CHALLENGE?','cta.titleA':'WIE HOCH','cta.titleB':'KOMMST DU?','cta.text':'Hol dir Drop It für Android und starte deine nächste Highscore-Runde.','cta.button':'JETZT AUF GOOGLE PLAY',
+    'cta.kicker':'BEREIT FÜR DIE CHALLENGE?','cta.titleA':'WIE HOCH','cta.titleB':'KOMMST DU?','cta.text':'Hol dir Drop It für Android oder iPhone und starte deine nächste Highscore-Runde.','cta.button':'JETZT AUF GOOGLE PLAY','cta.iosButton':'JETZT IM APP STORE',
     'footer.rights':'Alle Rechte vorbehalten.','footer.contact':'Kontakt','footer.privacy':'Datenschutz','footer.imprint':'Impressum',
     pageDescription:'Drop It – das farbenfrohe Geschicklichkeitsspiel mit One-Tap-Steuerung. Blöcke stapeln, perfekte Treffer landen und den Highscore knacken.',
     pageTitle:'Drop It – Stack Game | Flondy'
   },
   en: {
     skip:'Skip to content','nav.features':'Features','nav.screenshots':'Screenshots','nav.how':'How to play','nav.download':'Play now ↗',
-    'hero.eyebrow':'OUT NOW ON ANDROID','hero.title':'DROP. STACK. REPEAT.',
+    'hero.eyebrow':'OUT NOW ON ANDROID & IPHONE','hero.iosSmall':'DOWNLOAD ON THE','hero.title':'DROP. STACK. REPEAT.',
     'hero.description':'One tap makes all the difference. Time each moving block, build a towering neon masterpiece and beat your personal best.',
     'hero.storeSmall':'DOWNLOAD NOW','hero.gallery':'View screenshots','hero.benefit1':'One-tap gameplay','hero.benefit2':'Neon visuals','hero.benefit3':'Highscore challenge',
     'hero.float1':'PERFECT DROP!','hero.float2':'HOW HIGH CAN YOU GO?',
@@ -43,7 +43,7 @@ const translations = {
     'how.oneTitle':'FIND THE MOMENT','how.oneBody':'Watch the next block move above your growing tower.',
     'how.twoTitle':'TAP TO STACK','how.twoBody':'Tap at the right moment. Anything overhanging gets sliced away.',
     'how.threeTitle':'BEAT YOUR BEST','how.threeBody':'Keep the tower alive and reach new heights.','how.sticker':'REPEAT TO BEAT',
-    'cta.kicker':'READY FOR THE CHALLENGE?','cta.titleA':'HOW HIGH','cta.titleB':'CAN YOU GO?','cta.text':'Get Drop It for Android and start chasing your next highscore.','cta.button':'GET IT ON GOOGLE PLAY',
+    'cta.kicker':'READY FOR THE CHALLENGE?','cta.titleA':'HOW HIGH','cta.titleB':'CAN YOU GO?','cta.text':'Get Drop It for Android or iPhone and start chasing your next highscore.','cta.button':'GET IT ON GOOGLE PLAY','cta.iosButton':'GET IT ON THE APP STORE',
     'footer.rights':'All rights reserved.','footer.contact':'Contact','footer.privacy':'Privacy','footer.imprint':'Legal notice',
     pageDescription:'Drop It – neon-styled one-tap stacking game. Time your drops, build the tallest tower and chase your highscore.',
     pageTitle:'Drop It – Stack Game | Flondy'
